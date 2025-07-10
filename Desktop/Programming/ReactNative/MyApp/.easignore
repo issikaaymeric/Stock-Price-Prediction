@@ -4,6 +4,7 @@
 **/node_modules/.cache/
 
 # Also ignore system folders
+*.tmp
 *.log
 *.lock
 *.DS_Store
