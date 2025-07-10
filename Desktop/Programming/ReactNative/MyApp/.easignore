@@ -1,0 +1,9 @@
+# Ignore user's AppData folder (Windows-only issue)
+**/AppData/
+**/Users/
+**/node_modules/.cache/
+
+# Also ignore system folders
+*.log
+*.lock
+*.DS_Store

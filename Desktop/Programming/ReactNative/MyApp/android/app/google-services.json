@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433273489262",
+    "project_id": "myapp-4c96d",
+    "storage_bucket": "myapp-4c96d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433273489262:android:773ca3256b0feaa14d237f",
+        "android_client_info": {
+          "package_name": "com.avide.mycanteen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW0ZgAXC-LYV3xsss04t22igaKlI1UZgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
