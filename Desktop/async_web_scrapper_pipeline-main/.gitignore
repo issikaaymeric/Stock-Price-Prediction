@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+coverage/
+*.log
+/data/database.db
+.agents/
+.claude/
+.vscode/
