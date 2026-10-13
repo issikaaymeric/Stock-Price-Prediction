@@ -13,3 +13,6 @@ coverage/
 .agents/
 .claude/
 .vscode/
+cache/
+node_modules/
+__pycache__/
